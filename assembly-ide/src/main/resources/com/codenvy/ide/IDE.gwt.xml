@@ -66,6 +66,7 @@
     <inherits name="com.codenvy.plugin.npm.client.Npm"/>
     <inherits name="com.codenvy.plugin.yeoman.client.Yeoman"/>
     <inherits name="com.codenvy.ide.ext.php.client.PHP"/>
+    <inherits name="org.nuxeo.codenvy.nuxeo"/>
 
     <stylesheet src="IDE.css"/>
 
